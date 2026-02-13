@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-analytics-portfolio
 Data Analytics Portfolio – SQL, Power BI, Excel Projects
 # 📊 Data Analytics Portfolio
 
@@ -39,6 +39,8 @@ I enjoy working with data to uncover patterns, trends, and actionable insights.
 
 
 
+
+![Bike_Sale_o_power_bi](https://github.com/user-attachments/assets/e7ee467c-cc98-42fc-8d79-caf893d81b9a)
 
 
 An interactive **Power BI dashboard** analyzing bike sales data across customer demographics and business dimensions.
