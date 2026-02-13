@@ -46,7 +46,7 @@ An interactive **Power BI dashboard** analyzing bike sales data across customer 
 - Commute distance insights
 
 📌 **Project Link:**  
-👉 
+👉 https://github.com/ufuomajackson/data-analytics-portfolio
 
 📊 **Dashboard Preview:**
 
