@@ -12,6 +12,7 @@ I am passionate about transforming raw data into meaningful insights that suppor
 
 I am a data analysis enthusiast with a strong interest in:
 
+✔ Data Cleaning
 ✔ Data Visualization  
 ✔ Business Intelligence  
 ✔ Data-Driven Decision Making  
