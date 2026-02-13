@@ -36,6 +36,11 @@ I enjoy working with data to uncover patterns, trends, and actionable insights.
 
 ### 🚴 Bike Sales Analysis Dashboard
 
+
+
+
+
+
 An interactive **Power BI dashboard** analyzing bike sales data across customer demographics and business dimensions.
 
 **Key Focus Areas:**
